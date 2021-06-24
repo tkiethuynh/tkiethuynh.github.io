@@ -12,14 +12,14 @@ $$ x=\begin{bmatrix}x\\y\end{bmatrix} $$
 Homogeneous coordinates
 $$\tilde x = (\tilde x, \tilde y, \tilde z)$$
 
-Definition               | Notation              
---------------------- | :-------------------:
-Vector                 | $$ x=\begin{bmatrix}x\\y\end{bmatrix} $$          
-Homogeneous coordinates | $$\tilde x = (\tilde x, \tilde y, \tilde z)$$
-lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit
+Title 1               | Title 2               |
+--------------------- | :-------------------: |
+lorem                 | lorem ipsum           |
+lorem ipsum dolor sit | lorem ipsum dolor sit |
+lorem ipsum dolor sit | lorem ipsum dolor sit |
+lorem ipsum dolor sit | lorem ipsum dolor sit |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQ2NTcxMDIsLTE2NjA5Mjc5MzcsLT
-E5ODEyNzgwMTAsLTUxOTU1OTY2NiwyMDYxMjYyMzUwLC03NTc1
-OTUxMjAsLTc0MjU2MTM2M119
+eyJoaXN0b3J5IjpbLTk1NTc2NjU1NiwtMTY2MDkyNzkzNywtMT
+k4MTI3ODAxMCwtNTE5NTU5NjY2LDIwNjEyNjIzNTAsLTc1NzU5
+NTEyMCwtNzQyNTYxMzYzXX0=
 -->
