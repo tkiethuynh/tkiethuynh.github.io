@@ -8,14 +8,14 @@ image: image-formation.jpg
 
 Term               | Notation               |
 --------------------- | :-------------------: |
-Vector                 | $$ x=[x y]^T $$             |
-Homogeneous vector | $$\tilde x = (\tilde x, \tilde y, 1)$$ |
-Inhomogeneous vector| $$\tilde x = \tilde w \bar x = \tilde{w} (x, y, 1)$$
+Vector                 | $$ v=[x y]^T $$             |
+Homogeneous vector | $$\tilde v = (\tilde x, \tilde y, \tilde w)$$ |
+Inhomogeneous vector| $$\tilde v = \tilde w \bar v = \tilde{w} (x, y, 1)$$
 
 fdfd
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDE5NDcxLDE1MTU3MDk0NDcsNjk3Mz
-Q4MDAzLC0xMzI3NzM0OTk5LC0xNjYwOTI3OTM3LC0xOTgxMjc4
-MDEwLC01MTk1NTk2NjYsMjA2MTI2MjM1MCwtNzU3NTk1MTIwLC
-03NDI1NjEzNjNdfQ==
+eyJoaXN0b3J5IjpbMTIyNzA0NDgwOSwxNTE1NzA5NDQ3LDY5Nz
+M0ODAwMywtMTMyNzczNDk5OSwtMTY2MDkyNzkzNywtMTk4MTI3
+ODAxMCwtNTE5NTU5NjY2LDIwNjEyNjIzNTAsLTc1NzU5NTEyMC
+wtNzQyNTYxMzYzXX0=
 -->
