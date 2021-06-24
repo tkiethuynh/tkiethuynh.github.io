@@ -8,11 +8,11 @@ image: image-formation.jpg
 ---
 
 Vector
-$$ x=\begin{bmatrix}x\\y\end{bmatrix} $$
+$$ x=\begin{bmatrix}x\\y\end{bmatrix} $$   
 Homogeneous coordinates
 $$\tilde x = (\tilde x, \tilde y, \tilde z)$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzA3MzQ3MSwtMTk4MTI3ODAxMCwtNT
+eyJoaXN0b3J5IjpbLTYwNDQ0NTg0MSwtMTk4MTI3ODAxMCwtNT
 E5NTU5NjY2LDIwNjEyNjIzNTAsLTc1NzU5NTEyMCwtNzQyNTYx
 MzYzXX0=
 -->
