@@ -1,7 +1,10 @@
 ---
 layout: post
-title: Image Formation
-math: True
+title: "Image Formation"
+author: "Kiet Huynh"
+categories: journal
+tags: [documentation]
+image: image-formation.jpg
 ---
 
 Vector $$ x=\begin{matrix}x\\y\end{matrix} $$
