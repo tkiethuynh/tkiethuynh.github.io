@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Image Formation"
-author: "Kiet Huynh"
 categories: journal
 tags: [documentation]
 image: image-formation.jpg
