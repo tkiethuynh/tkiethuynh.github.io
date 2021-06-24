@@ -7,7 +7,7 @@ tags: [documentation]
 image: image-formation.jpg
 ---
 
-Vector $ x=\begin{matrix}x\\y\end{matrix} $
+Vector $ x=\begin{pmatrix}x\\y\end{pmatrix} $
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTUxOTU1OTY2NiwyMDYxMjYyMzUwLC03NT
