@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Slam Toolkit"
-author: "Kiet Huynh"
 categories: journal
 tags: [documentation]
 image: awesome-slam.png
