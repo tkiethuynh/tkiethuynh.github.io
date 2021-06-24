@@ -7,9 +7,12 @@ tags: [documentation]
 image: image-formation.jpg
 ---
 
-Vector $$ x=\begin{bmatrix}x\\y\end{bmatrix} $$
-
+Vector
+$$ x=\begin{bmatrix}x\\y\end{bmatrix} $$
+Homogeneous coordinates
+$$\tilde x$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODEyNzgwMTAsLTUxOTU1OTY2NiwyMD
-YxMjYyMzUwLC03NTc1OTUxMjAsLTc0MjU2MTM2M119
+eyJoaXN0b3J5IjpbMzc0NDI0ODI4LC0xOTgxMjc4MDEwLC01MT
+k1NTk2NjYsMjA2MTI2MjM1MCwtNzU3NTk1MTIwLC03NDI1NjEz
+NjNdfQ==
 -->
