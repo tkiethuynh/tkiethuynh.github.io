@@ -9,14 +9,14 @@ image: image-formation.jpg
 Term               | Notation               |
 --------------------- | :-------------------: |
 Vector                 | $$ x=\begin{bmatrix}x\\y\end{bmatrix} $$             |
-Homogeneous coordinates | $$\tilde x = (\tilde x, \tilde y, \tilde z)$$ |
-lorem ipsum dolor sit | lorem ipsum dolor sit |
+Homogeneous vector | $$\tilde x = (\tilde x, \tilde y, \tilde z)$$ |
+Inhomogeneous vector| lorem ipsum dolor sit |
 lorem ipsum dolor sit | lorem ipsum dolor sit |
 
 fdfd
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTcwOTQ0Nyw2OTczNDgwMDMsLTEzMj
-c3MzQ5OTksLTE2NjA5Mjc5MzcsLTE5ODEyNzgwMTAsLTUxOTU1
-OTY2NiwyMDYxMjYyMzUwLC03NTc1OTUxMjAsLTc0MjU2MTM2M1
-19
+eyJoaXN0b3J5IjpbLTEwMTUwMDA4MTcsMTUxNTcwOTQ0Nyw2OT
+czNDgwMDMsLTEzMjc3MzQ5OTksLTE2NjA5Mjc5MzcsLTE5ODEy
+NzgwMTAsLTUxOTU1OTY2NiwyMDYxMjYyMzUwLC03NTc1OTUxMj
+AsLTc0MjU2MTM2M119
 -->
