@@ -27,3 +27,6 @@ image: awesome-slam.png
 
 4. Resources:
   * [OpenSLAM community](https://openslam-org.github.io/)  
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzk2NTA5OTk5XX0=
+-->
