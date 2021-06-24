@@ -7,9 +7,9 @@ tags: [documentation]
 image: image-formation.jpg
 ---
 
-Vector $ x=\begin{matrix}x\\y\end{matrix} $
+Vector $$ x=\begin{bmatrix}x\\y\end{bmatrix} $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTU1OTY2NiwyMDYxMjYyMzUwLC03NT
-c1OTUxMjAsLTc0MjU2MTM2M119
+eyJoaXN0b3J5IjpbLTE5ODEyNzgwMTAsLTUxOTU1OTY2NiwyMD
+YxMjYyMzUwLC03NTc1OTUxMjAsLTc0MjU2MTM2M119
 -->
