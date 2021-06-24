@@ -6,4 +6,3 @@ permalink: /about
 
 I am Huynh Tuan Kiet  
 Currently a Master's student at Hanyang University.  
-Email: huynhtuankiet33 atgmaildottcom
