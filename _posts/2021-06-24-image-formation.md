@@ -9,13 +9,13 @@ image: image-formation.jpg
 Term               | Notation               |
 --------------------- | :-------------------: |
 Vector                 | $$ x=\begin{bmatrix}x\\y\end{bmatrix} $$             |
-Homogeneous vector | $$\tilde x = (\tilde x, \tilde y, \tilde w)$$ |
+Homogeneous vector | $$\tilde w \bar x = \tilde (x, y, 1)$$ |
 Inhomogeneous vector| $$\tilde x = (\tilde x, \tilde y, 1)$$
 
 fdfd
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDk2NTMxMzMsMTUxNTcwOTQ0Nyw2OT
-czNDgwMDMsLTEzMjc3MzQ5OTksLTE2NjA5Mjc5MzcsLTE5ODEy
-NzgwMTAsLTUxOTU1OTY2NiwyMDYxMjYyMzUwLC03NTc1OTUxMj
-AsLTc0MjU2MTM2M119
+eyJoaXN0b3J5IjpbNDcyODQ2NDUxLDE1MTU3MDk0NDcsNjk3Mz
+Q4MDAzLC0xMzI3NzM0OTk5LC0xNjYwOTI3OTM3LC0xOTgxMjc4
+MDEwLC01MTk1NTk2NjYsMjA2MTI2MjM1MCwtNzU3NTk1MTIwLC
+03NDI1NjEzNjNdfQ==
 -->
