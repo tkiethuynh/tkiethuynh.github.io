@@ -7,16 +7,16 @@ image: image-formation.jpg
 ---
 
 Vector $\mathbf x=[x\quad y]^T$  
-Homogeneous vector  $\tilde {\mathbf x} = (\tilde x, \tilde y, \tilde w) \in \mathrm P$  
+Homogeneous vector  $\tilde {\mathbf x} = (\tilde x, \tilde y, \tilde w) \in \mathcal P^2$  
 Inhomogeneous vector $\tilde {\mathbf x} = \tilde w \bar v = \tilde{w} (x, y, 1)$  
 
 update later...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTM3MTQ1ODksLTIxMjkzMjgxMTEsMT
-cwNTE4OSwtMjA0MzYzMTU0NywxMjI3MDQ0ODA5LDE1MTU3MDk0
-NDcsNjk3MzQ4MDAzLC0xMzI3NzM0OTk5LC0xNjYwOTI3OTM3LC
-0xOTgxMjc4MDEwLC01MTk1NTk2NjYsMjA2MTI2MjM1MCwtNzU3
-NTk1MTIwLC03NDI1NjEzNjNdfQ==
+eyJoaXN0b3J5IjpbMTAzNDc3MjI4LC0yMTI5MzI4MTExLDE3MD
+UxODksLTIwNDM2MzE1NDcsMTIyNzA0NDgwOSwxNTE1NzA5NDQ3
+LDY5NzM0ODAwMywtMTMyNzczNDk5OSwtMTY2MDkyNzkzNywtMT
+k4MTI3ODAxMCwtNTE5NTU5NjY2LDIwNjEyNjIzNTAsLTc1NzU5
+NTEyMCwtNzQyNTYxMzYzXX0=
 -->
