@@ -14,13 +14,14 @@ Representation:
 ##2D lines
 Representation:
 * Homogeneous coordinates $\tilde {\mathbf I} = (a,b,c)$
-* Line equation $\tilde x\tilde {\ $
+* Line equation $\tilde {\mathbf x} \tilde{\mathbf I}$ = ax+by+c = 0
+* Nomarlized vector 
 
 updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDY3Njc0MywtNjI0MTIwOTY3LDQxND
+eyJoaXN0b3J5IjpbMTA5MTUzODM5NiwtNjI0MTIwOTY3LDQxND
 U2MjQ0OSwxMDM0NzcyMjgsLTIxMjkzMjgxMTEsMTcwNTE4OSwt
 MjA0MzYzMTU0NywxMjI3MDQ0ODA5LDE1MTU3MDk0NDcsNjk3Mz
 Q4MDAzLC0xMzI3NzM0OTk5LC0xNjYwOTI3OTM3LC0xOTgxMjc4
