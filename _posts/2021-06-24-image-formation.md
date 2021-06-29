@@ -15,13 +15,13 @@ Representation:
 Representation:
 * Homogeneous coordinates $\tilde {\mathbf l} = (a,b,c)$
 * Line equation $\tilde {\mathbf x} \tilde{\mathbf l}$ = ax+by+c = 0
-* Nomarlized vector $\mathbf l = (\hat n_x,\hat n_y,d)=(\hat n,d)$ with $\norm{\hat n}=$
+* Nomarlized vector $\mathbf l = (\hat n_x,\hat n_y,d)=(\hat n,d)$ with $\lvert\hat n\rVert=$
 
 updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTY0MDEzMzQsLTYyNDEyMDk2Nyw0MT
+eyJoaXN0b3J5IjpbLTE2NzUyMDk0OTAsLTYyNDEyMDk2Nyw0MT
 Q1NjI0NDksMTAzNDc3MjI4LC0yMTI5MzI4MTExLDE3MDUxODks
 LTIwNDM2MzE1NDcsMTIyNzA0NDgwOSwxNTE1NzA5NDQ3LDY5Nz
 M0ODAwMywtMTMyNzczNDk5OSwtMTY2MDkyNzkzNywtMTk4MTI3
