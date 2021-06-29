@@ -13,18 +13,18 @@ Representation:
 
 ##2D lines
 Representation:
-* Homogeneous coordinates $\tilde {\mathbf I} = (a,b,c)$
-* Line equation $\tilde {\mathbf x} \tilde{\mathbf I}$ = ax+by+c = 0
-* Nomarlized vector 
+* Homogeneous coordinates $\tilde {\mathbf l} = (a,b,c)$
+* Line equation $\tilde {\mathbf x} \tilde{\mathbf l}$ = ax+by+c = 0
+* Nomarlized vector $\mathbf l = (\hat n_x,\hat n_y,d)$
 
 updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTUzODM5NiwtNjI0MTIwOTY3LDQxND
-U2MjQ0OSwxMDM0NzcyMjgsLTIxMjkzMjgxMTEsMTcwNTE4OSwt
-MjA0MzYzMTU0NywxMjI3MDQ0ODA5LDE1MTU3MDk0NDcsNjk3Mz
-Q4MDAzLC0xMzI3NzM0OTk5LC0xNjYwOTI3OTM3LC0xOTgxMjc4
-MDEwLC01MTk1NTk2NjYsMjA2MTI2MjM1MCwtNzU3NTk1MTIwLC
-03NDI1NjEzNjNdfQ==
+eyJoaXN0b3J5IjpbOTQ4NDkzNTgxLC02MjQxMjA5NjcsNDE0NT
+YyNDQ5LDEwMzQ3NzIyOCwtMjEyOTMyODExMSwxNzA1MTg5LC0y
+MDQzNjMxNTQ3LDEyMjcwNDQ4MDksMTUxNTcwOTQ0Nyw2OTczND
+gwMDMsLTEzMjc3MzQ5OTksLTE2NjA5Mjc5MzcsLTE5ODEyNzgw
+MTAsLTUxOTU1OTY2NiwyMDYxMjYyMzUwLC03NTc1OTUxMjAsLT
+c0MjU2MTM2M119
 -->
