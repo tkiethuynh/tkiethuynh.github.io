@@ -27,14 +27,14 @@ Representations:
 * Function of rotation angle $\mathbf l=(\cos\theta,\sin\theta,d)$
 
 ## 2D conics
-* Conic sections $\mathbf {\tilde x^TQ\tilde x}=0$
+* Conic sections $\mathbf {\tilde x^TQ\tilde x}=0$  
 
 ## 3D points
 Representations:
 * Inhomogeneous coordinate vector $\mathbf x=(x,y,z)\in\mathcal R^3$  
 * Homogeneous vector  $\mathbf {\tilde x} = (\tilde x, \tilde y, \tilde w, \tilde z) \in \mathcal P^3$ 
 * Inhomogeneous vector $\mathbf {\tilde x} = \tilde w \mathbf{\bar x}$
-  *  $\bar x = (x,y,z,1)$ is augmented vector   
+  *  $\bar x = (x,y,z,1)$ is augmented vector     
 ## 3D planes
 Representations:
 * Homogeneous coordinates $\tilde m=(a,b,c,d)$
@@ -42,14 +42,14 @@ Representations:
 * Normailized plane equation $\mathbf m = (\hat n_x,\hat n_y,\hat n_z,d)=(\mathbf {\hat n},d)$
   * $\lVert\mathbf{\tilde n}\rVert=1$
   * $d$ distance to origin
- * Spherical coordinate $\mathbf{\hat n}=(\cos\theta\cos\phi,\sin\theta\cos\phi,\sin\phi)$
+ * Spherical coordinate $\mathbf{\hat n}=(\cos\theta\cos\phi,\sin\theta\cos\phi,\sin\phi)$  
 ## 3D lines
 *It's not pretty like 2D*
 Representations:
 * Linear combination of two points $\mathbf r=(1-\lambda)\mathbf p +\lambda \mathbf q$
   * Line segment $0\leq\lambda\leq1$
 * Homogeneous coordinates $\mathbf{\tilde r}=\mu\mathbf{\tilde p}+\lambda\mathbf{\tilde q}$
-  * if $\mathbf{\tilde q}=(\hat d,0)$, line equation as $\mathbf r =\mathbf p+\lambda\mathbf{\hat d}$
+  * if $\mathbf{\tilde q}=(\hat d,0)$, line equation as $\mathbf r =\mathbf p+\lambda\mathbf{\hat d}$  
 ## 3D quadrics
 * Conic section $\mathbf{\bar x^TQ\bar x}=0$
 
@@ -60,11 +60,11 @@ Representations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0MjUxNzU3LDc1Njk2MjUxMyw1OTMyMj
-EwMiwtNjM2NjU5OCw5NTQ2ODk5MTQsLTY4OTk3Nzk5MiwyNjkw
-NTIwMjgsMjc1NTA3NTYzLC02MjQxMjA5NjcsNDE0NTYyNDQ5LD
-EwMzQ3NzIyOCwtMjEyOTMyODExMSwxNzA1MTg5LC0yMDQzNjMx
-NTQ3LDEyMjcwNDQ4MDksMTUxNTcwOTQ0Nyw2OTczNDgwMDMsLT
-EzMjc3MzQ5OTksLTE2NjA5Mjc5MzcsLTE5ODEyNzgwMTBdfQ==
+eyJoaXN0b3J5IjpbMTI0MjM5NDQxMyw3NTY5NjI1MTMsNTkzMj
+IxMDIsLTYzNjY1OTgsOTU0Njg5OTE0LC02ODk5Nzc5OTIsMjY5
+MDUyMDI4LDI3NTUwNzU2MywtNjI0MTIwOTY3LDQxNDU2MjQ0OS
+wxMDM0NzcyMjgsLTIxMjkzMjgxMTEsMTcwNTE4OSwtMjA0MzYz
+MTU0NywxMjI3MDQ0ODA5LDE1MTU3MDk0NDcsNjk3MzQ4MDAzLC
+0xMzI3NzM0OTk5LC0xNjYwOTI3OTM3LC0xOTgxMjc4MDEwXX0=
 
 -->
