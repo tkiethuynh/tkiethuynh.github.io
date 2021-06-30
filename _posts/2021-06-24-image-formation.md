@@ -16,7 +16,7 @@ Representation:
 Representation:
 * Homogeneous coordinates $\tilde {\mathbf l} = (a,b,c)$
 * Line equation $\tilde {\mathbf x} \tilde{\mathbf l}$ = ax+by+c = 0
-* Nomarlized vector $\mathbf l = (\hat n_x,\hat n_y,d)=(\hat n,d)$ with perpendicular normal vector$\lVert\hat n\rVert=1$ and d its distance to origin.
+* Nomarlized vector $\mathbf l = (\hat n_x,\hat n_y,d)=(\hat n,d)$ with perpendicular normal vector$\lVert\hat n\rVert=1$ and $d$ its distance to origin.
 
 updating...
 
@@ -26,11 +26,11 @@ updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0Njg5OTE0LC02ODk5Nzc5OTIsMjY5MD
-UyMDI4LDI3NTUwNzU2MywtNjI0MTIwOTY3LDQxNDU2MjQ0OSwx
-MDM0NzcyMjgsLTIxMjkzMjgxMTEsMTcwNTE4OSwtMjA0MzYzMT
-U0NywxMjI3MDQ0ODA5LDE1MTU3MDk0NDcsNjk3MzQ4MDAzLC0x
-MzI3NzM0OTk5LC0xNjYwOTI3OTM3LC0xOTgxMjc4MDEwLC01MT
-k1NTk2NjYsMjA2MTI2MjM1MCwtNzU3NTk1MTIwLC03NDI1NjEz
-NjNdfQ==
+eyJoaXN0b3J5IjpbLTYzNjY1OTgsOTU0Njg5OTE0LC02ODk5Nz
+c5OTIsMjY5MDUyMDI4LDI3NTUwNzU2MywtNjI0MTIwOTY3LDQx
+NDU2MjQ0OSwxMDM0NzcyMjgsLTIxMjkzMjgxMTEsMTcwNTE4OS
+wtMjA0MzYzMTU0NywxMjI3MDQ0ODA5LDE1MTU3MDk0NDcsNjk3
+MzQ4MDAzLC0xMzI3NzM0OTk5LC0xNjYwOTI3OTM3LC0xOTgxMj
+c4MDEwLC01MTk1NTk2NjYsMjA2MTI2MjM1MCwtNzU3NTk1MTIw
+XX0=
 -->
