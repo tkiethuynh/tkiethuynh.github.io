@@ -49,10 +49,9 @@ Representations:
 * Linear combination of two points $\mathbf r=(1-\lambda)\mathbf p +\lambda \mathbf q$
   * Line segment $0\leq\lambda\leq1$
 * Homogeneous coordinates $\mathbf{\tilde r}=\mu\mathbf{\tilde p}+\lambda\mathbf{\tilde q}$
-  * if $\mathbf{\tilde q}=(\hat d,0)$
-
-updating...
-
+  * if $\mathbf{\tilde q}=(\hat d,0)$, line equation as $\mathbf r =\mathbf p+\lambda\mathbf{\hat d}$
+## 3D quadrics
+* Conic section $\mathbf{\bar x$
 
 
 ## References
@@ -61,11 +60,11 @@ updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4MzYzODQ5LDc1Njk2MjUxMyw1OTMyMj
-EwMiwtNjM2NjU5OCw5NTQ2ODk5MTQsLTY4OTk3Nzk5MiwyNjkw
-NTIwMjgsMjc1NTA3NTYzLC02MjQxMjA5NjcsNDE0NTYyNDQ5LD
-EwMzQ3NzIyOCwtMjEyOTMyODExMSwxNzA1MTg5LC0yMDQzNjMx
-NTQ3LDEyMjcwNDQ4MDksMTUxNTcwOTQ0Nyw2OTczNDgwMDMsLT
-EzMjc3MzQ5OTksLTE2NjA5Mjc5MzcsLTE5ODEyNzgwMTBdfQ==
+eyJoaXN0b3J5IjpbLTE0ODU1MzY5MTUsNzU2OTYyNTEzLDU5Mz
+IyMTAyLC02MzY2NTk4LDk1NDY4OTkxNCwtNjg5OTc3OTkyLDI2
+OTA1MjAyOCwyNzU1MDc1NjMsLTYyNDEyMDk2Nyw0MTQ1NjI0ND
+ksMTAzNDc3MjI4LC0yMTI5MzI4MTExLDE3MDUxODksLTIwNDM2
+MzE1NDcsMTIyNzA0NDgwOSwxNTE1NzA5NDQ3LDY5NzM0ODAwMy
+wtMTMyNzczNDk5OSwtMTY2MDkyNzkzNywtMTk4MTI3ODAxMF19
 
 -->
