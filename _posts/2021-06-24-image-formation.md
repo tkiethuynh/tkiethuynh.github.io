@@ -28,7 +28,11 @@ Representation:
 ## 2D conics
 * Conic sections $\mathbf {\tilde x^TQ\tilde x}=0$
 ## 3D points
-
+Representation:
+* Vector $\mathbf x=[x\quad y]^T$  
+* Homogeneous vector  $\mathbf {\tilde x} = (\tilde x, \tilde y, \tilde w, \ti) \in \mathcal P^3$ 
+* Inhomogeneous vector $\mathbf {\tilde x} = \tilde w \mathbf{\bar x}$
+  *  $\bar x = (x,y,z,1)$ is augmented vector 
 updating...
 
 ## References
@@ -37,7 +41,7 @@ updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzU1NzE0NiwtNjM2NjU5OCw5NTQ2OD
+eyJoaXN0b3J5IjpbMTgzMjMyNDk0MCwtNjM2NjU5OCw5NTQ2OD
 k5MTQsLTY4OTk3Nzk5MiwyNjkwNTIwMjgsMjc1NTA3NTYzLC02
 MjQxMjA5NjcsNDE0NTYyNDQ5LDEwMzQ3NzIyOCwtMjEyOTMyOD
 ExMSwxNzA1MTg5LC0yMDQzNjMxNTQ3LDEyMjcwNDQ4MDksMTUx
