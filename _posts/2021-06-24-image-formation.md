@@ -16,8 +16,11 @@ Representation:
 Representation:
 * Homogeneous coordinates $\tilde {\mathbf l} = (a,b,c)$
 * Line equation $\tilde {\mathbf x} \tilde{\mathbf l}$ = ax+by+c = 0
-* Nomarlized vector $\mathbf l = (\hat n_x,\hat n_y,d)=(\hat n,d)$ with perpendicular normal vector$\lVert\hat n\rVert=1$ and $d$ its distance to origin.
+* Nomarlized vector $\mathbf l = (\hat n_x,\hat n_y,d)=(\hat n,d)$
+  * Normal vector$\lVert\hat n\rVert=1$
+  * Distance to origin $d$.
 * Function of rotation angle $\mathbf l=(\cos\theta,\sin\theta,d)$
+*
 updating...
 
 ## References
@@ -26,11 +29,11 @@ updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxNDUyMzcxLC02MzY2NTk4LDk1NDY4OT
-kxNCwtNjg5OTc3OTkyLDI2OTA1MjAyOCwyNzU1MDc1NjMsLTYy
-NDEyMDk2Nyw0MTQ1NjI0NDksMTAzNDc3MjI4LC0yMTI5MzI4MT
-ExLDE3MDUxODksLTIwNDM2MzE1NDcsMTIyNzA0NDgwOSwxNTE1
-NzA5NDQ3LDY5NzM0ODAwMywtMTMyNzczNDk5OSwtMTY2MDkyNz
-kzNywtMTk4MTI3ODAxMCwtNTE5NTU5NjY2LDIwNjEyNjIzNTBd
-fQ==
+eyJoaXN0b3J5IjpbMTE5MzA3MzY5MCwtNjM2NjU5OCw5NTQ2OD
+k5MTQsLTY4OTk3Nzk5MiwyNjkwNTIwMjgsMjc1NTA3NTYzLC02
+MjQxMjA5NjcsNDE0NTYyNDQ5LDEwMzQ3NzIyOCwtMjEyOTMyOD
+ExMSwxNzA1MTg5LC0yMDQzNjMxNTQ3LDEyMjcwNDQ4MDksMTUx
+NTcwOTQ0Nyw2OTczNDgwMDMsLTEzMjc3MzQ5OTksLTE2NjA5Mj
+c5MzcsLTE5ODEyNzgwMTAsLTUxOTU1OTY2NiwyMDYxMjYyMzUw
+XX0=
 -->
