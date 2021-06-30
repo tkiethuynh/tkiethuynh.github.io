@@ -41,7 +41,8 @@ Representation:
 * Plane equation $\mathbf{\bar x \tilde m} = ax+by+cz+d = 0$
 * Normailized plane equation $\mathbf m = (\hat n_x,\hat n_y,\hat n_z,d)=(\mathbf {\hat n},d)$
   * $\lVert\mathbf{\tilde n}\rVert=1$
-  * $$
+  * $d$ distance to origin
+ * Function of angles $\mathbf{\hat n}=(\cos\theta\cos\phi,\sin\theta\cos\phi,\sin\phi)$
 
 updating...
 
@@ -53,7 +54,7 @@ updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjk1NjU3OCwtNjM2NjU5OCw5NTQ2OD
+eyJoaXN0b3J5IjpbMTg0MTAyNTY2MCwtNjM2NjU5OCw5NTQ2OD
 k5MTQsLTY4OTk3Nzk5MiwyNjkwNTIwMjgsMjc1NTA3NTYzLC02
 MjQxMjA5NjcsNDE0NTYyNDQ5LDEwMzQ3NzIyOCwtMjEyOTMyOD
 ExMSwxNzA1MTg5LC0yMDQzNjMxNTQ3LDEyMjcwNDQ4MDksMTUx
