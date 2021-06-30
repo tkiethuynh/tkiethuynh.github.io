@@ -34,7 +34,8 @@ Representations:
 * Inhomogeneous coordinate vector $\mathbf x=(x,y,z)\in\mathcal R^3$  
 * Homogeneous vector  $\mathbf {\tilde x} = (\tilde x, \tilde y, \tilde w, \tilde z) \in \mathcal P^3$ 
 * Inhomogeneous vector $\mathbf {\tilde x} = \tilde w \mathbf{\bar x}$
-  *  $\bar x = (x,y,z,1)$ is augmented vector     
+  *  $\bar x = (x,y,z,1)$ is augmented vector  
+   
 ## 3D planes
 Representations:
 * Homogeneous coordinates $\tilde m=(a,b,c,d)$
@@ -43,13 +44,15 @@ Representations:
   * $\lVert\mathbf{\tilde n}\rVert=1$
   * $d$ distance to origin
  * Spherical coordinate $\mathbf{\hat n}=(\cos\theta\cos\phi,\sin\theta\cos\phi,\sin\phi)$  
+
 ## 3D lines
 *It's not pretty like 2D*
 Representations:
 * Linear combination of two points $\mathbf r=(1-\lambda)\mathbf p +\lambda \mathbf q$
   * Line segment $0\leq\lambda\leq1$
 * Homogeneous coordinates $\mathbf{\tilde r}=\mu\mathbf{\tilde p}+\lambda\mathbf{\tilde q}$
-  * if $\mathbf{\tilde q}=(\hat d,0)$, line equation as $\mathbf r =\mathbf p+\lambda\mathbf{\hat d}$  
+  * if $\mathbf{\tilde q}=(\hat d,0)$, line equation as $\mathbf r =\mathbf p+\lambda\mathbf{\hat d}$ 
+ 
 ## 3D quadrics
 * Conic section $\mathbf{\bar x^TQ\bar x}=0$
 
@@ -60,11 +63,11 @@ Representations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MjM5NDQxMyw3NTY5NjI1MTMsNTkzMj
-IxMDIsLTYzNjY1OTgsOTU0Njg5OTE0LC02ODk5Nzc5OTIsMjY5
-MDUyMDI4LDI3NTUwNzU2MywtNjI0MTIwOTY3LDQxNDU2MjQ0OS
-wxMDM0NzcyMjgsLTIxMjkzMjgxMTEsMTcwNTE4OSwtMjA0MzYz
-MTU0NywxMjI3MDQ0ODA5LDE1MTU3MDk0NDcsNjk3MzQ4MDAzLC
-0xMzI3NzM0OTk5LC0xNjYwOTI3OTM3LC0xOTgxMjc4MDEwXX0=
+eyJoaXN0b3J5IjpbLTE4NjkxMTUxNzMsNzU2OTYyNTEzLDU5Mz
+IyMTAyLC02MzY2NTk4LDk1NDY4OTkxNCwtNjg5OTc3OTkyLDI2
+OTA1MjAyOCwyNzU1MDc1NjMsLTYyNDEyMDk2Nyw0MTQ1NjI0ND
+ksMTAzNDc3MjI4LC0yMTI5MzI4MTExLDE3MDUxODksLTIwNDM2
+MzE1NDcsMTIyNzA0NDgwOSwxNTE1NzA5NDQ3LDY5NzM0ODAwMy
+wtMTMyNzczNDk5OSwtMTY2MDkyNzkzNywtMTk4MTI3ODAxMF19
 
 -->
