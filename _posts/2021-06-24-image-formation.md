@@ -17,14 +17,14 @@ Representation:
 * Line equation $\tilde {\mathbf x} \tilde{\mathbf l}$ = ax+by+c = 0
 * Nomarlized vector $\mathbf l = (\hat n_x,\hat n_y,d)=(\hat n,d)$ with perpendicular normal vector$\lVert\hat n\rVert=1$ and d its distance to origin.
 
-## Reference
+## References
 [1] Richard Szeliski. 2010. <i>Computer Vision: Algorithms and Applications</i> (1st. ed.). Springer-Verlag, Berlin, Heidelberg.
 
 updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MDIwMDQwNywtNjg5OTc3OTkyLDI2OT
+eyJoaXN0b3J5IjpbMTY2MTQxNjQxNiwtNjg5OTc3OTkyLDI2OT
 A1MjAyOCwyNzU1MDc1NjMsLTYyNDEyMDk2Nyw0MTQ1NjI0NDks
 MTAzNDc3MjI4LC0yMTI5MzI4MTExLDE3MDUxODksLTIwNDM2Mz
 E1NDcsMTIyNzA0NDgwOSwxNTE1NzA5NDQ3LDY5NzM0ODAwMywt
