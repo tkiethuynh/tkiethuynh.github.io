@@ -18,18 +18,19 @@ Representation:
 * Line equation $\tilde {\mathbf x} \tilde{\mathbf l}$ = ax+by+c = 0
 * Nomarlized vector $\mathbf l = (\hat n_x,\hat n_y,d)=(\hat n,d)$ with perpendicular normal vector$\lVert\hat n\rVert=1$ and d its distance to origin.
 
+updating...
+
 ## References
 [1] Richard Szeliski. 2010. <i>Computer Vision: Algorithms and Applications</i> (1st. ed.). Springer-Verlag, Berlin, Heidelberg.
 
-updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTE3NjkyMzYsLTY4OTk3Nzk5MiwyNj
-kwNTIwMjgsMjc1NTA3NTYzLC02MjQxMjA5NjcsNDE0NTYyNDQ5
-LDEwMzQ3NzIyOCwtMjEyOTMyODExMSwxNzA1MTg5LC0yMDQzNj
-MxNTQ3LDEyMjcwNDQ4MDksMTUxNTcwOTQ0Nyw2OTczNDgwMDMs
-LTEzMjc3MzQ5OTksLTE2NjA5Mjc5MzcsLTE5ODEyNzgwMTAsLT
-UxOTU1OTY2NiwyMDYxMjYyMzUwLC03NTc1OTUxMjAsLTc0MjU2
-MTM2M119
+eyJoaXN0b3J5IjpbOTU0Njg5OTE0LC02ODk5Nzc5OTIsMjY5MD
+UyMDI4LDI3NTUwNzU2MywtNjI0MTIwOTY3LDQxNDU2MjQ0OSwx
+MDM0NzcyMjgsLTIxMjkzMjgxMTEsMTcwNTE4OSwtMjA0MzYzMT
+U0NywxMjI3MDQ0ODA5LDE1MTU3MDk0NDcsNjk3MzQ4MDAzLC0x
+MzI3NzM0OTk5LC0xNjYwOTI3OTM3LC0xOTgxMjc4MDEwLC01MT
+k1NTk2NjYsMjA2MTI2MjM1MCwtNzU3NTk1MTIwLC03NDI1NjEz
+NjNdfQ==
 -->
