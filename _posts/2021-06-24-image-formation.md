@@ -44,7 +44,9 @@ Representations:
   * $d$ distance to origin
  * Spherical coordinate $\mathbf{\hat n}=(\cos\theta\cos\phi,\sin\theta\cos\phi,\sin\phi)$
 ## 3D lines
+*It's not pretty like 2D*
 Representations:
+* Linear combination of two points \
 
 updating...
 
@@ -56,11 +58,11 @@ updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTMyMzY0NCw1OTMyMjEwMiwtNjM2Nj
-U5OCw5NTQ2ODk5MTQsLTY4OTk3Nzk5MiwyNjkwNTIwMjgsMjc1
-NTA3NTYzLC02MjQxMjA5NjcsNDE0NTYyNDQ5LDEwMzQ3NzIyOC
-wtMjEyOTMyODExMSwxNzA1MTg5LC0yMDQzNjMxNTQ3LDEyMjcw
-NDQ4MDksMTUxNTcwOTQ0Nyw2OTczNDgwMDMsLTEzMjc3MzQ5OT
-ksLTE2NjA5Mjc5MzcsLTE5ODEyNzgwMTAsLTUxOTU1OTY2Nl19
+eyJoaXN0b3J5IjpbMjI1OTQ4OTI3LDU5MzIyMTAyLC02MzY2NT
+k4LDk1NDY4OTkxNCwtNjg5OTc3OTkyLDI2OTA1MjAyOCwyNzU1
+MDc1NjMsLTYyNDEyMDk2Nyw0MTQ1NjI0NDksMTAzNDc3MjI4LC
+0yMTI5MzI4MTExLDE3MDUxODksLTIwNDM2MzE1NDcsMTIyNzA0
+NDgwOSwxNTE1NzA5NDQ3LDY5NzM0ODAwMywtMTMyNzczNDk5OS
+wtMTY2MDkyNzkzNywtMTk4MTI3ODAxMCwtNTE5NTU5NjY2XX0=
 
 -->
