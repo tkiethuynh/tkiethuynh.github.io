@@ -15,7 +15,7 @@ Representation:
 ## 2D lines
 Representation:
 * Homogeneous coordinates $\tilde {\mathbf l} = (a,b,c)$
-  * $\tilde {\mathbf x}$
+  * Intersection of two lines: $\tilde {\mathbf x} =\tilde{\mathbf l_1}\times\tilde{\mathbf l_2}$
 * Line equation $\tilde {\mathbf x} \tilde{\mathbf l}$ = ax+by+c = 0
 * Nomarlized vector $\mathbf l = (\hat n_x,\hat n_y,d)=(\hat n,d)$
   * Normal vector$\lVert\hat n\rVert=1$
@@ -30,7 +30,7 @@ updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDI2NjUzMiwtNjM2NjU5OCw5NTQ2OD
+eyJoaXN0b3J5IjpbLTI3MjI4ODU4NywtNjM2NjU5OCw5NTQ2OD
 k5MTQsLTY4OTk3Nzk5MiwyNjkwNTIwMjgsMjc1NTA3NTYzLC02
 MjQxMjA5NjcsNDE0NTYyNDQ5LDEwMzQ3NzIyOCwtMjEyOTMyOD
 ExMSwxNzA1MTg5LC0yMDQzNjMxNTQ3LDEyMjcwNDQ4MDksMTUx
