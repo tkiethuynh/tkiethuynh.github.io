@@ -19,14 +19,14 @@ Representation:
 Representation:
 * Homogeneous coordinates $\mathbf {\tilde l} = (a,b,c)$
   * Intersection of two lines $\mathbf{\tilde x} =\mathbf{\tilde l_1}\times\mathbf{\tilde l_2}$
-  * Line joining two points $\tilde{\mathbf l} = \mathbf{\tilde x_1}\times\mathbf{\tilde x_2}$
-* Line equation $\mathbf {\tilde x} \mathbf{\tilde l}$ = ax+by+c = 0
+  * Line joining two points $\tilde{\mathbf l} = \mathbf{\tilde x_1\times\tilde x_2}$
+* Line equation $\mathbf {\tilde x\tilde l}$ = ax+by+c = 0
 * Nomarlized vector $\mathbf l = (\hat n_x,\hat n_y,d)=(\hat n,d)$
   * Normal vector$\lVert\hat n\rVert=1$
   * Distance to origin $d$.
 * Function of rotation angle $\mathbf l=(\cos\theta,\sin\theta,d)$
 ## 2D conics
-* Conic Sec
+* Conic sections $\mathbf {\tilde x^TQ\tilde x}=0$
 updating...
 
 ## References
@@ -35,11 +35,11 @@ updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1MjI0MjM3LC02MzY2NTk4LDk1NDY4OT
-kxNCwtNjg5OTc3OTkyLDI2OTA1MjAyOCwyNzU1MDc1NjMsLTYy
-NDEyMDk2Nyw0MTQ1NjI0NDksMTAzNDc3MjI4LC0yMTI5MzI4MT
-ExLDE3MDUxODksLTIwNDM2MzE1NDcsMTIyNzA0NDgwOSwxNTE1
-NzA5NDQ3LDY5NzM0ODAwMywtMTMyNzczNDk5OSwtMTY2MDkyNz
-kzNywtMTk4MTI3ODAxMCwtNTE5NTU5NjY2LDIwNjEyNjIzNTBd
-fQ==
+eyJoaXN0b3J5IjpbLTk3NDIyNzAxNiwtNjM2NjU5OCw5NTQ2OD
+k5MTQsLTY4OTk3Nzk5MiwyNjkwNTIwMjgsMjc1NTA3NTYzLC02
+MjQxMjA5NjcsNDE0NTYyNDQ5LDEwMzQ3NzIyOCwtMjEyOTMyOD
+ExMSwxNzA1MTg5LC0yMDQzNjMxNTQ3LDEyMjcwNDQ4MDksMTUx
+NTcwOTQ0Nyw2OTczNDgwMDMsLTEzMjc3MzQ5OTksLTE2NjA5Mj
+c5MzcsLTE5ODEyNzgwMTAsLTUxOTU1OTY2NiwyMDYxMjYyMzUw
+XX0=
 -->
