@@ -10,14 +10,14 @@ Here is my summarization from the book Computer Vision: Algorithms and Applicati
 Representation:
 * Vector $\mathbf x=[x\quad y]^T$  
 * Homogeneous vector  $\mathbf {\tilde x} = (\tilde x, \tilde y, \tilde w) \in \mathcal P^2$  where $\mathcal P^2 = \mathcal R^3 - (0,0,0)$ is 2D projective space.  
-* Inhomogeneous vector $\mathbf {\tilde x} = \tilde w \bar{\bar x} = \tilde{w} (x, y, 1)$  where $\bar x = (x,y,1)$ is augmented vector -> $\tilde w = 0$ called points at infinity and have no inhomogeneous representation.  
+* Inhomogeneous vector $\mathbf {\tilde x} = \tilde w \mathbf{\bar x} = \tilde{w} (x, y, 1)$  where $\bar x = (x,y,1)$ is augmented vector -> $\tilde w = 0$ called points at infinity and have no inhomogeneous representation.  
 
 ## 2D lines
 Representation:
-* Homogeneous coordinates $\tilde {\mathbf l} = (a,b,c)$
-  * Intersection of two lines $\tilde {\mathbf x} =\tilde{\mathbf l_1}\times\tilde{\mathbf l_2}$
-  * Line joining two points $\tilde{\mathbf l} = \mathbf{\tilde l}$
-* Line equation $\tilde {\mathbf x} \tilde{\mathbf l}$ = ax+by+c = 0
+* Homogeneous coordinates $\mathbf {\tilde l} = (a,b,c)$
+  * Intersection of two lines $\mathbf{\tilde x} =\mathbf{\tilde l_1}\times\mathbf{\tilde l_2}$
+  * Line joining two points $\tilde{\mathbf l} = \mathbf{\tilde x_1}\times\mathbf{\tilde x_2}$
+* Line equation $\mathbf {\tilde x} \mathbf{\tilde l}$ = ax+by+c = 0
 * Nomarlized vector $\mathbf l = (\hat n_x,\hat n_y,d)=(\hat n,d)$
   * Normal vector$\lVert\hat n\rVert=1$
   * Distance to origin $d$.
@@ -31,7 +31,7 @@ updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTI4NjI4MzQsLTYzNjY1OTgsOTU0Nj
+eyJoaXN0b3J5IjpbLTEwMzczNDg5NDIsLTYzNjY1OTgsOTU0Nj
 g5OTE0LC02ODk5Nzc5OTIsMjY5MDUyMDI4LDI3NTUwNzU2Mywt
 NjI0MTIwOTY3LDQxNDU2MjQ0OSwxMDM0NzcyMjgsLTIxMjkzMj
 gxMTEsMTcwNTE4OSwtMjA0MzYzMTU0NywxMjI3MDQ0ODA5LDE1
