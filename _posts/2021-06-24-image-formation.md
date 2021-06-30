@@ -47,6 +47,7 @@ Representations:
 *It's not pretty like 2D*
 Representations:
 * Linear combination of two points $\mathbf r=(1-\lambda)\mathbf p +\lambda \mathbf q$
+  * Line segment $\
 * Homogeneous coordinates $\mathbf{\tild$
 
 updating...
@@ -59,11 +60,11 @@ updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2OTYyNTEzLDU5MzIyMTAyLC02MzY2NT
-k4LDk1NDY4OTkxNCwtNjg5OTc3OTkyLDI2OTA1MjAyOCwyNzU1
-MDc1NjMsLTYyNDEyMDk2Nyw0MTQ1NjI0NDksMTAzNDc3MjI4LC
-0yMTI5MzI4MTExLDE3MDUxODksLTIwNDM2MzE1NDcsMTIyNzA0
-NDgwOSwxNTE1NzA5NDQ3LDY5NzM0ODAwMywtMTMyNzczNDk5OS
-wtMTY2MDkyNzkzNywtMTk4MTI3ODAxMCwtNTE5NTU5NjY2XX0=
+eyJoaXN0b3J5IjpbNDU5MzQ2NTAwLDc1Njk2MjUxMyw1OTMyMj
+EwMiwtNjM2NjU5OCw5NTQ2ODk5MTQsLTY4OTk3Nzk5MiwyNjkw
+NTIwMjgsMjc1NTA3NTYzLC02MjQxMjA5NjcsNDE0NTYyNDQ5LD
+EwMzQ3NzIyOCwtMjEyOTMyODExMSwxNzA1MTg5LC0yMDQzNjMx
+NTQ3LDEyMjcwNDQ4MDksMTUxNTcwOTQ0Nyw2OTczNDgwMDMsLT
+EzMjc3MzQ5OTksLTE2NjA5Mjc5MzcsLTE5ODEyNzgwMTBdfQ==
 
 -->
