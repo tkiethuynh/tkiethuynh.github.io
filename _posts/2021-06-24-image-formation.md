@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Image Formation: Geometric primitives and transformations"
+title: "Image Formation: Geometric primitives"
 categories: journal
 tags: [documentation]
 image: image-formation.jpg
@@ -63,11 +63,11 @@ Representations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjkxMTUxNzMsNzU2OTYyNTEzLDU5Mz
-IyMTAyLC02MzY2NTk4LDk1NDY4OTkxNCwtNjg5OTc3OTkyLDI2
-OTA1MjAyOCwyNzU1MDc1NjMsLTYyNDEyMDk2Nyw0MTQ1NjI0ND
-ksMTAzNDc3MjI4LC0yMTI5MzI4MTExLDE3MDUxODksLTIwNDM2
-MzE1NDcsMTIyNzA0NDgwOSwxNTE1NzA5NDQ3LDY5NzM0ODAwMy
-wtMTMyNzczNDk5OSwtMTY2MDkyNzkzNywtMTk4MTI3ODAxMF19
+eyJoaXN0b3J5IjpbLTU4Mzc4NzQyOCw3NTY5NjI1MTMsNTkzMj
+IxMDIsLTYzNjY1OTgsOTU0Njg5OTE0LC02ODk5Nzc5OTIsMjY5
+MDUyMDI4LDI3NTUwNzU2MywtNjI0MTIwOTY3LDQxNDU2MjQ0OS
+wxMDM0NzcyMjgsLTIxMjkzMjgxMTEsMTcwNTE4OSwtMjA0MzYz
+MTU0NywxMjI3MDQ0ODA5LDE1MTU3MDk0NDcsNjk3MzQ4MDAzLC
+0xMzI3NzM0OTk5LC0xNjYwOTI3OTM3LC0xOTgxMjc4MDEwXX0=
 
 -->
