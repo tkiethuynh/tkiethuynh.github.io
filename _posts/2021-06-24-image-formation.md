@@ -47,7 +47,7 @@ Representations:
 *It's not pretty like 2D*
 Representations:
 * Linear combination of two points $\mathbf r=(1-\lambda)\mathbf p +\lambda \mathbf q$
-  * Line segment $\
+  * Line segment $0\leq\lambda\leq1$
 * Homogeneous coordinates $\mathbf{\tild$
 
 updating...
@@ -60,7 +60,7 @@ updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5MzQ2NTAwLDc1Njk2MjUxMyw1OTMyMj
+eyJoaXN0b3J5IjpbNjQ1MzQzODIwLDc1Njk2MjUxMyw1OTMyMj
 EwMiwtNjM2NjU5OCw5NTQ2ODk5MTQsLTY4OTk3Nzk5MiwyNjkw
 NTIwMjgsMjc1NTA3NTYzLC02MjQxMjA5NjcsNDE0NTYyNDQ5LD
 EwMzQ3NzIyOCwtMjEyOTMyODExMSwxNzA1MTg5LC0yMDQzNjMx
