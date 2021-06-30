@@ -5,6 +5,7 @@ categories: journal
 tags: [documentation]
 image: image-formation.jpg
 ---
+Here is my summarization from the book Computer Vision: Algorithms and Applications by Richard Szeliski.
 ## 2D points
 Representation:
 * Vector $\mathbf x=[x\quad y]^T$  
@@ -24,11 +25,11 @@ updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTQxNjQxNiwtNjg5OTc3OTkyLDI2OT
-A1MjAyOCwyNzU1MDc1NjMsLTYyNDEyMDk2Nyw0MTQ1NjI0NDks
-MTAzNDc3MjI4LC0yMTI5MzI4MTExLDE3MDUxODksLTIwNDM2Mz
-E1NDcsMTIyNzA0NDgwOSwxNTE1NzA5NDQ3LDY5NzM0ODAwMywt
-MTMyNzczNDk5OSwtMTY2MDkyNzkzNywtMTk4MTI3ODAxMCwtNT
-E5NTU5NjY2LDIwNjEyNjIzNTAsLTc1NzU5NTEyMCwtNzQyNTYx
-MzYzXX0=
+eyJoaXN0b3J5IjpbLTE0OTE3NjkyMzYsLTY4OTk3Nzk5MiwyNj
+kwNTIwMjgsMjc1NTA3NTYzLC02MjQxMjA5NjcsNDE0NTYyNDQ5
+LDEwMzQ3NzIyOCwtMjEyOTMyODExMSwxNzA1MTg5LC0yMDQzNj
+MxNTQ3LDEyMjcwNDQ4MDksMTUxNTcwOTQ0Nyw2OTczNDgwMDMs
+LTEzMjc3MzQ5OTksLTE2NjA5Mjc5MzcsLTE5ODEyNzgwMTAsLT
+UxOTU1OTY2NiwyMDYxMjYyMzUwLC03NTc1OTUxMjAsLTc0MjU2
+MTM2M119
 -->
