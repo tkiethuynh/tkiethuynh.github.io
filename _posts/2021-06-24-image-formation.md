@@ -42,7 +42,7 @@ Representation:
 * Normailized plane equation $\mathbf m = (\hat n_x,\hat n_y,\hat n_z,d)=(\mathbf {\hat n},d)$
   * $\lVert\mathbf{\tilde n}\rVert=1$
   * $d$ distance to origin
- * Function of angles $\mathbf{\hat n}=(\cos\theta\cos\phi,\sin\theta\cos\phi,\sin\phi)$
+ * Spherical coordinate $\mathbf{\hat n}=(\cos\theta\cos\phi,\sin\theta\cos\phi,\sin\phi)$
 
 updating...
 
@@ -54,11 +54,11 @@ updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTAyNTY2MCwtNjM2NjU5OCw5NTQ2OD
-k5MTQsLTY4OTk3Nzk5MiwyNjkwNTIwMjgsMjc1NTA3NTYzLC02
-MjQxMjA5NjcsNDE0NTYyNDQ5LDEwMzQ3NzIyOCwtMjEyOTMyOD
-ExMSwxNzA1MTg5LC0yMDQzNjMxNTQ3LDEyMjcwNDQ4MDksMTUx
-NTcwOTQ0Nyw2OTczNDgwMDMsLTEzMjc3MzQ5OTksLTE2NjA5Mj
-c5MzcsLTE5ODEyNzgwMTAsLTUxOTU1OTY2NiwyMDYxMjYyMzUw
-XX0=
+eyJoaXN0b3J5IjpbNTkzMjIxMDIsLTYzNjY1OTgsOTU0Njg5OT
+E0LC02ODk5Nzc5OTIsMjY5MDUyMDI4LDI3NTUwNzU2MywtNjI0
+MTIwOTY3LDQxNDU2MjQ0OSwxMDM0NzcyMjgsLTIxMjkzMjgxMT
+EsMTcwNTE4OSwtMjA0MzYzMTU0NywxMjI3MDQ0ODA5LDE1MTU3
+MDk0NDcsNjk3MzQ4MDAzLC0xMzI3NzM0OTk5LC0xNjYwOTI3OT
+M3LC0xOTgxMjc4MDEwLC01MTk1NTk2NjYsMjA2MTI2MjM1MF19
+
 -->
