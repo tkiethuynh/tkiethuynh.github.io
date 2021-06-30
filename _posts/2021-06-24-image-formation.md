@@ -22,7 +22,7 @@ Representation:
   * Line joining two points $\mathbf{\tilde l = \tilde x_1\times\tilde x_2}$
 * Line equation $\mathbf {\tilde x\tilde l}$ = ax+by+c = 0
 * Nomarlized vector $\mathbf l = (\hat n_x,\hat n_y,d)=(\hat n,d)$
-  * Normal vector$\lVert\hat n\rVert=1$
+  * Normal vector$\lVert\mathbf{\hat n}\rVert=1$
   * Distance to origin $d$.
 * Function of rotation angle $\mathbf l=(\cos\theta,\sin\theta,d)$
 
@@ -39,7 +39,9 @@ Representation:
 Representation:
 * Homogeneous coordinates $\tilde m=(a,b,c,d)$
 * Plane equation $\mathbf{\bar x \tilde m} = ax+by+cz+d = 0$
-* Normailized plane equation $\mathbf m = (\hat n_x,\hat n_y,\hat n_z,d)=(\hat n,d)$
+* Normailized plane equation $\mathbf m = (\hat n_x,\hat n_y,\hat n_z,d)=(\mathbf {\hat n},d)$
+  * $\lVert\mathbf{\tilde n}\rVert=1$
+  * $$
 
 updating...
 
@@ -51,11 +53,11 @@ updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTk1NDE5NzIsLTYzNjY1OTgsOTU0Nj
-g5OTE0LC02ODk5Nzc5OTIsMjY5MDUyMDI4LDI3NTUwNzU2Mywt
-NjI0MTIwOTY3LDQxNDU2MjQ0OSwxMDM0NzcyMjgsLTIxMjkzMj
-gxMTEsMTcwNTE4OSwtMjA0MzYzMTU0NywxMjI3MDQ0ODA5LDE1
-MTU3MDk0NDcsNjk3MzQ4MDAzLC0xMzI3NzM0OTk5LC0xNjYwOT
-I3OTM3LC0xOTgxMjc4MDEwLC01MTk1NTk2NjYsMjA2MTI2MjM1
-MF19
+eyJoaXN0b3J5IjpbMTkyMjk1NjU3OCwtNjM2NjU5OCw5NTQ2OD
+k5MTQsLTY4OTk3Nzk5MiwyNjkwNTIwMjgsMjc1NTA3NTYzLC02
+MjQxMjA5NjcsNDE0NTYyNDQ5LDEwMzQ3NzIyOCwtMjEyOTMyOD
+ExMSwxNzA1MTg5LC0yMDQzNjMxNTQ3LDEyMjcwNDQ4MDksMTUx
+NTcwOTQ0Nyw2OTczNDgwMDMsLTEzMjc3MzQ5OTksLTE2NjA5Mj
+c5MzcsLTE5ODEyNzgwMTAsLTUxOTU1OTY2NiwyMDYxMjYyMzUw
+XX0=
 -->
