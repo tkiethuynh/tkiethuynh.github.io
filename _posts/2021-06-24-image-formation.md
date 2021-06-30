@@ -9,13 +9,14 @@ Here is my summarization from the book Computer Vision: Algorithms and Applicati
 ## 2D points
 Representation:
 * Vector $\mathbf x=[x\quad y]^T$  
-* Homogeneous vector  $\tilde {\mathbf x} = (\tilde x, \tilde y, \tilde w) \in \mathcal P^2$  where $\mathcal P^2 = \mathcal R^3 - (0,0,0)$ is 2D projective space.  
-* Inhomogeneous vector $\tilde {\mathbf x} = \tilde w \bar{\mathbf x} = \tilde{w} (x, y, 1)$  where $\bar x = (x,y,1)$ is augmented vector -> $\tilde w = 0$ called points at infinity and have no inhomogeneous representation.  
+* Homogeneous vector  $\mathbf {\tilde x} = (\tilde x, \tilde y, \tilde w) \in \mathcal P^2$  where $\mathcal P^2 = \mathcal R^3 - (0,0,0)$ is 2D projective space.  
+* Inhomogeneous vector $\mathbf {\tilde x} = \tilde w \bar{\bar x} = \tilde{w} (x, y, 1)$  where $\bar x = (x,y,1)$ is augmented vector -> $\tilde w = 0$ called points at infinity and have no inhomogeneous representation.  
 
 ## 2D lines
 Representation:
 * Homogeneous coordinates $\tilde {\mathbf l} = (a,b,c)$
-  * Intersection of two lines: $\tilde {\mathbf x} =\tilde{\mathbf l_1}\times\tilde{\mathbf l_2}$
+  * Intersection of two lines $\tilde {\mathbf x} =\tilde{\mathbf l_1}\times\tilde{\mathbf l_2}$
+  * Line joining two points $\tilde{\mathbf l} = \mathbf{\tilde l}$
 * Line equation $\tilde {\mathbf x} \tilde{\mathbf l}$ = ax+by+c = 0
 * Nomarlized vector $\mathbf l = (\hat n_x,\hat n_y,d)=(\hat n,d)$
   * Normal vector$\lVert\hat n\rVert=1$
@@ -30,11 +31,11 @@ updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjI4ODU4NywtNjM2NjU5OCw5NTQ2OD
-k5MTQsLTY4OTk3Nzk5MiwyNjkwNTIwMjgsMjc1NTA3NTYzLC02
-MjQxMjA5NjcsNDE0NTYyNDQ5LDEwMzQ3NzIyOCwtMjEyOTMyOD
-ExMSwxNzA1MTg5LC0yMDQzNjMxNTQ3LDEyMjcwNDQ4MDksMTUx
-NTcwOTQ0Nyw2OTczNDgwMDMsLTEzMjc3MzQ5OTksLTE2NjA5Mj
-c5MzcsLTE5ODEyNzgwMTAsLTUxOTU1OTY2NiwyMDYxMjYyMzUw
-XX0=
+eyJoaXN0b3J5IjpbLTE3MTI4NjI4MzQsLTYzNjY1OTgsOTU0Nj
+g5OTE0LC02ODk5Nzc5OTIsMjY5MDUyMDI4LDI3NTUwNzU2Mywt
+NjI0MTIwOTY3LDQxNDU2MjQ0OSwxMDM0NzcyMjgsLTIxMjkzMj
+gxMTEsMTcwNTE4OSwtMjA0MzYzMTU0NywxMjI3MDQ0ODA5LDE1
+MTU3MDk0NDcsNjk3MzQ4MDAzLC0xMzI3NzM0OTk5LC0xNjYwOT
+I3OTM3LC0xOTgxMjc4MDEwLC01MTk1NTk2NjYsMjA2MTI2MjM1
+MF19
 -->
