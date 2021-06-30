@@ -7,7 +7,7 @@ image: image-formation.jpg
 ---
 Here is my summarization from the book Computer Vision: Algorithms and Applications by Richard Szeliski.
 ## 2D points
-Representation:
+Representations:
 * Vector $\mathbf x=[x\quad y]^T$  
 * Homogeneous vector  $\mathbf {\tilde x} = (\tilde x, \tilde y, \tilde w) \in \mathcal P^2$ 
   *  $\mathcal P^2 = \mathcal R^3 - (0,0,0)$ is 2D projective space.  
@@ -16,7 +16,7 @@ Representation:
   *  $\tilde w = 0$ called points at infinity and have no inhomogeneous representation.  
 
 ## 2D lines
-Representation:
+Representations:
 * Homogeneous coordinates $\mathbf {\tilde l} = (a,b,c)$
   * Intersection of two lines $\mathbf{\tilde x =\tilde l_1\times\tilde l_2}$
   * Line joining two points $\mathbf{\tilde l = \tilde x_1\times\tilde x_2}$
@@ -30,19 +30,21 @@ Representation:
 * Conic sections $\mathbf {\tilde x^TQ\tilde x}=0$
 
 ## 3D points
-Representation:
+Representations:
 * Inhomogeneous coordinate vector $\mathbf x=(x,y,z)\in\mathcal R^3$  
 * Homogeneous vector  $\mathbf {\tilde x} = (\tilde x, \tilde y, \tilde w, \tilde z) \in \mathcal P^3$ 
 * Inhomogeneous vector $\mathbf {\tilde x} = \tilde w \mathbf{\bar x}$
   *  $\bar x = (x,y,z,1)$ is augmented vector 
 ## 3D planes
-Representation:
+Representations:
 * Homogeneous coordinates $\tilde m=(a,b,c,d)$
 * Plane equation $\mathbf{\bar x \tilde m} = ax+by+cz+d = 0$
 * Normailized plane equation $\mathbf m = (\hat n_x,\hat n_y,\hat n_z,d)=(\mathbf {\hat n},d)$
   * $\lVert\mathbf{\tilde n}\rVert=1$
   * $d$ distance to origin
  * Spherical coordinate $\mathbf{\hat n}=(\cos\theta\cos\phi,\sin\theta\cos\phi,\sin\phi)$
+## 3D lines
+Representations:
 
 updating...
 
@@ -54,11 +56,11 @@ updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzMjIxMDIsLTYzNjY1OTgsOTU0Njg5OT
-E0LC02ODk5Nzc5OTIsMjY5MDUyMDI4LDI3NTUwNzU2MywtNjI0
-MTIwOTY3LDQxNDU2MjQ0OSwxMDM0NzcyMjgsLTIxMjkzMjgxMT
-EsMTcwNTE4OSwtMjA0MzYzMTU0NywxMjI3MDQ0ODA5LDE1MTU3
-MDk0NDcsNjk3MzQ4MDAzLC0xMzI3NzM0OTk5LC0xNjYwOTI3OT
-M3LC0xOTgxMjc4MDEwLC01MTk1NTk2NjYsMjA2MTI2MjM1MF19
+eyJoaXN0b3J5IjpbMTk5MTMyMzY0NCw1OTMyMjEwMiwtNjM2Nj
+U5OCw5NTQ2ODk5MTQsLTY4OTk3Nzk5MiwyNjkwNTIwMjgsMjc1
+NTA3NTYzLC02MjQxMjA5NjcsNDE0NTYyNDQ5LDEwMzQ3NzIyOC
+wtMjEyOTMyODExMSwxNzA1MTg5LC0yMDQzNjMxNTQ3LDEyMjcw
+NDQ4MDksMTUxNTcwOTQ0Nyw2OTczNDgwMDMsLTEzMjc3MzQ5OT
+ksLTE2NjA5Mjc5MzcsLTE5ODEyNzgwMTAsLTUxOTU1OTY2Nl19
 
 -->
