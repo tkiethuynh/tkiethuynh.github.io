@@ -46,7 +46,7 @@ Representations:
  * Spherical coordinate $\mathbf{\hat n}=(\cos\theta\cos\phi,\sin\theta\cos\phi,\sin\phi)$  
 
 ## 3D lines
-*It's not pretty like 2D*
+*It's not pretty like 2D*  
 Representations:
 * Linear combination of two points $\mathbf r=(1-\lambda)\mathbf p +\lambda \mathbf q$
   * Line segment $0\leq\lambda\leq1$
@@ -63,7 +63,7 @@ Representations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Mzc4NzQyOCw3NTY5NjI1MTMsNTkzMj
+eyJoaXN0b3J5IjpbMTAzNzM4MDMxNiw3NTY5NjI1MTMsNTkzMj
 IxMDIsLTYzNjY1OTgsOTU0Njg5OTE0LC02ODk5Nzc5OTIsMjY5
 MDUyMDI4LDI3NTUwNzU2MywtNjI0MTIwOTY3LDQxNDU2MjQ0OS
 wxMDM0NzcyMjgsLTIxMjkzMjgxMTEsMTcwNTE4OSwtMjA0MzYz
