@@ -29,8 +29,8 @@ Representation:
 * Conic sections $\mathbf {\tilde x^TQ\tilde x}=0$
 ## 3D points
 Representation:
-* Vector $\mathbf x=[x\quad y]^T$  
-* Homogeneous vector  $\mathbf {\tilde x} = (\tilde x, \tilde y, \tilde w, \ti) \in \mathcal P^3$ 
+* Inhomogeneous coordinate vector $\mathbf x=(x,y,z)\in$  
+* Homogeneous vector  $\mathbf {\tilde x} = (\tilde x, \tilde y, \tilde w, \tilde z) \in \mathcal P^3$ 
 * Inhomogeneous vector $\mathbf {\tilde x} = \tilde w \mathbf{\bar x}$
   *  $\bar x = (x,y,z,1)$ is augmented vector 
 updating...
@@ -41,11 +41,11 @@ updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjMyNDk0MCwtNjM2NjU5OCw5NTQ2OD
-k5MTQsLTY4OTk3Nzk5MiwyNjkwNTIwMjgsMjc1NTA3NTYzLC02
-MjQxMjA5NjcsNDE0NTYyNDQ5LDEwMzQ3NzIyOCwtMjEyOTMyOD
-ExMSwxNzA1MTg5LC0yMDQzNjMxNTQ3LDEyMjcwNDQ4MDksMTUx
-NTcwOTQ0Nyw2OTczNDgwMDMsLTEzMjc3MzQ5OTksLTE2NjA5Mj
-c5MzcsLTE5ODEyNzgwMTAsLTUxOTU1OTY2NiwyMDYxMjYyMzUw
-XX0=
+eyJoaXN0b3J5IjpbLTEyOTc1MTI0NjIsLTYzNjY1OTgsOTU0Nj
+g5OTE0LC02ODk5Nzc5OTIsMjY5MDUyMDI4LDI3NTUwNzU2Mywt
+NjI0MTIwOTY3LDQxNDU2MjQ0OSwxMDM0NzcyMjgsLTIxMjkzMj
+gxMTEsMTcwNTE4OSwtMjA0MzYzMTU0NywxMjI3MDQ0ODA5LDE1
+MTU3MDk0NDcsNjk3MzQ4MDAzLC0xMzI3NzM0OTk5LC0xNjYwOT
+I3OTM3LC0xOTgxMjc4MDEwLC01MTk1NTk2NjYsMjA2MTI2MjM1
+MF19
 -->
