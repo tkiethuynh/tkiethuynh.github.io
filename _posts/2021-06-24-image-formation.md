@@ -18,8 +18,8 @@ Representation:
 ## 2D lines
 Representation:
 * Homogeneous coordinates $\mathbf {\tilde l} = (a,b,c)$
-  * Intersection of two lines $\mathbf{\tilde x} =\mathbf{\tilde l_1}\times\mathbf{\tilde l_2}$
-  * Line joining two points $\tilde{\mathbf l} = \mathbf{\tilde x_1\times\tilde x_2}$
+  * Intersection of two lines $\mathbf{\tilde x =\tilde l_1\times\tilde l_2}$
+  * Line joining two points $\mathbf{\tilde l = \tilde x_1\times\tilde x_2}$
 * Line equation $\mathbf {\tilde x\tilde l}$ = ax+by+c = 0
 * Nomarlized vector $\mathbf l = (\hat n_x,\hat n_y,d)=(\hat n,d)$
   * Normal vector$\lVert\hat n\rVert=1$
@@ -27,6 +27,8 @@ Representation:
 * Function of rotation angle $\mathbf l=(\cos\theta,\sin\theta,d)$
 ## 2D conics
 * Conic sections $\mathbf {\tilde x^TQ\tilde x}=0$
+## 3D points
+
 updating...
 
 ## References
@@ -35,7 +37,7 @@ updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDIyNzAxNiwtNjM2NjU5OCw5NTQ2OD
+eyJoaXN0b3J5IjpbMTEwNzU1NzE0NiwtNjM2NjU5OCw5NTQ2OD
 k5MTQsLTY4OTk3Nzk5MiwyNjkwNTIwMjgsMjc1NTA3NTYzLC02
 MjQxMjA5NjcsNDE0NTYyNDQ5LDEwMzQ3NzIyOCwtMjEyOTMyOD
 ExMSwxNzA1MTg5LC0yMDQzNjMxNTQ3LDEyMjcwNDQ4MDksMTUx
