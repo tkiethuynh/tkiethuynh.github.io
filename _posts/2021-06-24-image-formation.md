@@ -46,7 +46,7 @@ Representations:
 ## 3D lines
 *It's not pretty like 2D*
 Representations:
-* Linear combination of two points \
+* Linear combination of two points $\mathbf r=(1-\lambda)\mathbf p +\lambda \mathbf q$
 
 updating...
 
@@ -58,11 +58,11 @@ updating...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1OTQ4OTI3LDU5MzIyMTAyLC02MzY2NT
-k4LDk1NDY4OTkxNCwtNjg5OTc3OTkyLDI2OTA1MjAyOCwyNzU1
-MDc1NjMsLTYyNDEyMDk2Nyw0MTQ1NjI0NDksMTAzNDc3MjI4LC
-0yMTI5MzI4MTExLDE3MDUxODksLTIwNDM2MzE1NDcsMTIyNzA0
-NDgwOSwxNTE1NzA5NDQ3LDY5NzM0ODAwMywtMTMyNzczNDk5OS
-wtMTY2MDkyNzkzNywtMTk4MTI3ODAxMCwtNTE5NTU5NjY2XX0=
-
+eyJoaXN0b3J5IjpbLTE5NTc0MTYzNjcsNTkzMjIxMDIsLTYzNj
+Y1OTgsOTU0Njg5OTE0LC02ODk5Nzc5OTIsMjY5MDUyMDI4LDI3
+NTUwNzU2MywtNjI0MTIwOTY3LDQxNDU2MjQ0OSwxMDM0NzcyMj
+gsLTIxMjkzMjgxMTEsMTcwNTE4OSwtMjA0MzYzMTU0NywxMjI3
+MDQ0ODA5LDE1MTU3MDk0NDcsNjk3MzQ4MDAzLC0xMzI3NzM0OT
+k5LC0xNjYwOTI3OTM3LC0xOTgxMjc4MDEwLC01MTk1NTk2NjZd
+fQ==
 -->
