@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to Robotics Here
+title: Welcome to Robot Here
 permalink: /about
 ---
 
