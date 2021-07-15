@@ -6,7 +6,7 @@ tags: [documentation]
 image: linear-algebra.jpg
 ---
 Simplify a general matrix multiplication  
-Suppose $H$ matrix $p$
+Suppose $H$ matrix $p\times n$
 $$
 \begin{split}
 HPH^T & = \begin{bmatrix}H_{11} & \cdots & H_{1n} \\ \vdots & \ddots & \vdots \\ H_{p1} & \cdots & H_{pn} \end{bmatrix}
@@ -19,6 +19,6 @@ HPH^T & = \begin{bmatrix}H_{11} & \cdots & H_{1n} \\ \vdots & \ddots & \vdots \\
 \end{split}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTY5ODQzMSwtMTkxMDY2MzM4NSwtMz
+eyJoaXN0b3J5IjpbMTU1NTI5MjkwMSwtMTkxMDY2MzM4NSwtMz
 YxOTI3MjY1LC03Nzk0MTQ2NzMsMTU3Mzg1MDE2OF19
 -->
