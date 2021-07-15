@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some Notes about Linear Algebra"
+title: "Linear Algebra Notes"
 categories: journal
 tags: [documentation]
 image: linear-algebra.jpg
@@ -19,6 +19,6 @@ HPH^T & = \begin{bmatrix}H_{11} & \cdots & H_{1n} \\ \vdots & \ddots & \vdots \\
 \end{split}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ5OTE2MTYsLTE5MTA2NjMzODUsLT
+eyJoaXN0b3J5IjpbLTIwMzIyNjYzNDEsLTE5MTA2NjMzODUsLT
 M2MTkyNzI2NSwtNzc5NDE0NjczLDE1NzM4NTAxNjhdfQ==
 -->
