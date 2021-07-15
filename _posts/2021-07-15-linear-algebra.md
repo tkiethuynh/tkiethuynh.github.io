@@ -5,8 +5,8 @@ categories: journal
 tags: [documentation]
 image: linear-algebra.jpg
 ---
-In this post, I skipped the introduction of scalar, matrix and matrix arithmetic.
+In this post, I skipped the introduction of scalar, matrix and basic expand definition of matrix like matrix arithmetic, transpose, inversion
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI2NTk0NTA4LC03Nzk0MTQ2NzMsMTU3Mz
+eyJoaXN0b3J5IjpbOTQ1MjI0ODQwLC03Nzk0MTQ2NzMsMTU3Mz
 g1MDE2OF19
 -->
