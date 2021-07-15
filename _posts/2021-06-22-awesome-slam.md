@@ -3,7 +3,7 @@ layout: post
 title: "Slam Toolkit"
 categories: journal
 tags: [documentation]
-image: awesome-slam.png
+image: awesome-slam.jpg
 ---
  
 1. List  
@@ -27,5 +27,5 @@ image: awesome-slam.png
 4. Resources:
   * [OpenSLAM community](https://openslam-org.github.io/)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2NTA5OTk5XX0=
+eyJoaXN0b3J5IjpbNjU4NDkwODY5LDc5NjUwOTk5OV19
 -->
