@@ -7,9 +7,9 @@ image: linear-algebra.jpg
 ---
 Simplify a general matrix multiplication  
 $$
-HPH^T=\begin{bmatrix}H_{11} & \odots & \end{bmatrix}
+HPH^T=\begin{bmatrix}H_{11} & \cdots & \H_{1n} \\ \vdots \end{bmatrix}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwNDkyNjU1LC0xOTEwNjYzMzg1LC0zNj
-E5MjcyNjUsLTc3OTQxNDY3MywxNTczODUwMTY4XX0=
+eyJoaXN0b3J5IjpbMTIyMTcxMDQwNywtMTkxMDY2MzM4NSwtMz
+YxOTI3MjY1LC03Nzk0MTQ2NzMsMTU3Mzg1MDE2OF19
 -->
