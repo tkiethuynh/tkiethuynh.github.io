@@ -5,8 +5,8 @@ categories: journal
 tags: [documentation]
 image: linear-algebra.jpg
 ---
-In this post, I skipped the introduction of scalar, matrix and arithmetic matrix
+In this post, I skipped the introduction of scalar, matrix and matrix arithmetic.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyMzA0MDEyLC03Nzk0MTQ2NzMsMTU3Mz
+eyJoaXN0b3J5IjpbNDI2NTk0NTA4LC03Nzk0MTQ2NzMsMTU3Mz
 g1MDE2OF19
 -->
