@@ -3,8 +3,9 @@ layout: post
 title: "Basic Linear Algebra"
 categories: journal
 tags: [documentation]
-image: awesome-slam.png
+image: linear-algebra.jpg
 ---
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3Mzg1MDE2OF19
+eyJoaXN0b3J5IjpbLTc3OTQxNDY3MywxNTczODUwMTY4XX0=
 -->
