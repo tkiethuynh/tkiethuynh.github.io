@@ -5,7 +5,7 @@ categories: journal
 tags: [documentation]
 image: linear-algebra.jpg
 ---
-Simplify a general matrix multiplication  
+## Simplify a general matrix multiplication  
 Suppose $H$ a matrix $p\times n$, $P$ a matrix $n\times n$
 $$
 \begin{split}
@@ -19,6 +19,6 @@ HPH^T & = \begin{bmatrix}H_{11} & \cdots & H_{1n} \\ \vdots & \ddots & \vdots \\
 \end{split}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDc4MTIzMTAsLTE5MTA2NjMzODUsLT
+eyJoaXN0b3J5IjpbLTIwNTQ5OTE2MTYsLTE5MTA2NjMzODUsLT
 M2MTkyNzI2NSwtNzc5NDE0NjczLDE1NzM4NTAxNjhdfQ==
 -->
