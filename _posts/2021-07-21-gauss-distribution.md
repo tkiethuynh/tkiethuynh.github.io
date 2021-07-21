@@ -23,7 +23,7 @@ $$\mathbb E [x]=\int_{-\infin}^{\infin}\mathcal N (x|\mu,\sigma^2)x\mathrm d x=\
 For the second order moment
 $$\mathbb E [x^2]=\int_{-\infin}^{\infin}\mathcal N (x|\mu,\sigma^2)x^2\mathrm d x=\mu^2*\sigma^2$$
 The variance
-$$var[x]=\mathbb E$$
+$$\mathrm {var}[x]=\mathbb E[x^2]-\mathbb E [x]^2=\sigma^2$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNzUxOTgsMTkwMjkwNzMwOV19
+eyJoaXN0b3J5IjpbLTE1NTY0MjI1MTksMTkwMjkwNzMwOV19
 -->
