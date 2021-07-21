@@ -13,7 +13,8 @@ $$
 where:
 * $\mu$ is the mean
 * $\sigma^2$ is the variance => $\sigma$ is the standard deviation
+From the above form of distribution, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjkwNzMwOV19
+eyJoaXN0b3J5IjpbMTc1NzYyMTQ0OCwxOTAyOTA3MzA5XX0=
 -->
