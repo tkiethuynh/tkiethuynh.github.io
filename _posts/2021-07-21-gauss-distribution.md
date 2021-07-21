@@ -20,8 +20,10 @@ It is also normalized
 $$\int_{-\infin}^{\infin}\mathcal N(x|\mu,\sigma^2)\mathrm d x=1$$
 Here the expectation
 $$\mathbb E [x]=\int_{-\infin}^{\infin}\mathcal N (x|\mu,\sigma^2)x\mathrm d x=\mu$$
-
-
+For the second order moment
+$$\mathbb E [x^2]=\int_{-\infin}^{\infin}\mathcal N (x|\mu,\sigma^2)x^2\mathrm d x=\mu^2*\sigma^2$$
+The variance
+$$var[x]=\mathbb E$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwMjg2NTc1LDE5MDI5MDczMDldfQ==
+eyJoaXN0b3J5IjpbMTMwNzUxOTgsMTkwMjkwNzMwOV19
 -->
