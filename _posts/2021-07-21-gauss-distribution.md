@@ -12,9 +12,13 @@ $$
 $$
 where:
 * $\mu$ is the mean
-* $\sigma^2$ is the variance => $\sigma$ is the standard deviation
-From the above form of distribution, 
+* $\sigma^2$ is the variance => $\sigma$ is the standard deviation  
+
+From the above form of distribution, the Guassian is always positive
+$$\mathcal N(x|\mu,\sigma^2) > 0$$
+It is also normalized
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NzYyMTQ0OCwxOTAyOTA3MzA5XX0=
+eyJoaXN0b3J5IjpbMTEzOTk5MjE4OSwxOTAyOTA3MzA5XX0=
 -->
