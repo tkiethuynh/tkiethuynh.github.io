@@ -19,9 +19,9 @@ $$\mathcal N(x|\mu,\sigma^2) > 0$$
 It is also normalized
 $$\int_{-\infin}^{\infin}\mathcal N(x|\mu,\sigma^2)\mathrm d x=1$$
 Here the expectation
-$$\mathbb eE $$
+$$\mathbb E [x]=\int_{-\infin}^{\infin}\mathcal N (x|\mu,\sigma^2)x\mathrm d x=\mu$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjY4MzIxMzgsMTkwMjkwNzMwOV19
+eyJoaXN0b3J5IjpbODUwMjg2NTc1LDE5MDI5MDczMDldfQ==
 -->
