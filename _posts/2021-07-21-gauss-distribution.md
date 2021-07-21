@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guass Distribution"
+title: "Guassian Distribution"
 categories: journal
 tags: [documentation]
 image: linear-algebra.jpg
@@ -25,5 +25,6 @@ $$\mathbb E [x^2]=\int_{-\infin}^{\infin}\mathcal N (x|\mu,\sigma^2)x^2\mathrm d
 The variance
 $$\mathrm {var}[x]=\mathbb E[x^2]-\mathbb E [x]^2=\sigma^2$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTY0MjI1MTksMTkwMjkwNzMwOV19
+eyJoaXN0b3J5IjpbMTIxMDIyNzgzNSwtMTU1NjQyMjUxOSwxOT
+AyOTA3MzA5XX0=
 -->
