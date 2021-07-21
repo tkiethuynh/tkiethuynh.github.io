@@ -17,8 +17,9 @@ where:
 From the above form of distribution, the Guassian is always positive
 $$\mathcal N(x|\mu,\sigma^2) > 0$$
 It is also normalized
+$$\int_{-\infin}^\infin$$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTk5MjE4OSwxOTAyOTA3MzA5XX0=
+eyJoaXN0b3J5IjpbLTY4NDc1NDYxNCwxOTAyOTA3MzA5XX0=
 -->
