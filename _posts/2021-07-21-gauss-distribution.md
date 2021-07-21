@@ -12,8 +12,8 @@ $$
 $$
 where:
 * $\mu$ is the mean
-* $\sigma^2$ is the variance => $\sigma$ is the standard devi
-* 
+* $\sigma^2$ is the variance => $\sigma$ is the standard deviation
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTczMjU1NzZdfQ==
+eyJoaXN0b3J5IjpbMTkwMjkwNzMwOV19
 -->
