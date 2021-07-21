@@ -8,8 +8,8 @@ image: linear-algebra.jpg
 ## Phân phối Guass 
 Phân phối Guass (Guassian distribution) hay phân phối chuẩn (normal distribution) có dạng như sau:
 $$
-\mathcal N(x|\mu,\sigma^2)=\frac{1}{(2\pi\sigma^2)^{1/2}}\exp{}
+\mathcal N(x|\mu,\sigma^2)=\frac{1}{(2\pi\sigma^2)^{1/2}}\exp\{-\frac{1}{2\sigma^2}(x-\mu)^2\}
 $$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzYxMDQ3MF19
+eyJoaXN0b3J5IjpbMTg5NDgxNDI5N119
 -->
